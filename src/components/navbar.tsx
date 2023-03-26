@@ -17,17 +17,22 @@ const Navbar = () => {
                 Inicio
               </a>
             </li>
-            <li className="nav-item dropdown">
-              <a className="nav-link text-dark dropdown-toggle font-weight-bold d-flex align-items-center me-2 " aria-current="page" id="pagesExample" data-bs-toggle="dropdown" aria-expanded="false">
-                Paginas
+            <li className="nav-item">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
+                Nosotros
               </a>
-              <ul className="dropdown-menu" aria-labelledby="pagesExample">
-                <li><a className="dropdown-item" href="/astro-ecommerce/landing/">Nosotros</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/product/">Trabajos</a></li>
-               
-              </ul>
             </li>
-            
+            <li className="nav-item">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
+                Galeria
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
+                Contactanos
+              </a>
+            </li>
+                      
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://wa.me/c/56948446060">
                 <i className="fab text-lg fa-whatsapp"></i>
