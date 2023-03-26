@@ -93,3 +93,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 Feel free to check [our documentation](https://www.creative-tim.com/learning-lab/astro/overview/astro-ecommerce) or jump into our [Discord server](https://discord.com/invite/TGZqBvZB).
 # autanamuebles
+# autana
